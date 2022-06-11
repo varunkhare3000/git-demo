@@ -2,8 +2,6 @@
 
 This is the first line
 
-##Ipsum Below
+##Website content
 
-Second line
-
-Third line
+1. index.html
